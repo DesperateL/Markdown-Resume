@@ -1,61 +1,37 @@
- <div align="center">
-     <h1>XXX</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
-     </div>
- </div>
+# <center>梁嘉祺</center>
+<center><img src="assets/phone-solid.svg" width="18px"> tel: 13072190030		<img src="assets/envelope-solid.svg" width="18px"> email: 747713425@qq.com		<img src="assets/github-brands.svg" width="18px"> github:<a href="https://github.com/DesperateL"> DesperateL</a></center>
 
+## 个人信息
 
- ## 个人信息
-
- - 男，1994 年出生
+ - 男，1995 年出生
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 18届，毕业未满一年
 
 ## 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-
-## 工作经历
-
-- XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9
-
-  负责 XXX
+- 学士，复旦大学，核工程与核技术专业，2015.9~2018.6
 
 ## 项目经历
 
-- XXXX 项目
+- 头条资讯类项目
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  1. 项目采用Spring+SpringMVC+MyBatis框架搭建而成
 
-  项目地址：[CS-Notes](https://github.com/CyC2018/CS-Notes)
+  2. 通过MyBatis与MySQL的交互，完成了用户注册登录管理，资讯发布，评论，站内信等功能
+
+  3. 通过阿里云服务实现了图片的云端存取
+
+  4. 利用Redis实现资讯的赞踩功能
+
+  5. 基于Redis的list实现了项目的异步队列，邮件等弱耦合业务异步处理
+
+     项目地址：[头条资讯](https://github.com/DesperateL/demo)
 
 ## 技能清单
 
 - ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
 - ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★☆ MySQL
+- ★★☆ Redis
+- ★☆☆ Python
+- ★☆☆ js html css
